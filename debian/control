@@ -1,0 +1,12 @@
+Source: xpra-www-data
+Section: x11
+Priority: optional
+Standards-Version: 4.3.0
+Maintainer: Juanma Navarro <juanma1980@gmail.com>
+Uploaders: Juanma Navarro <juanma1980@gmail.com>
+Build-Depends: debhelper (>= 12~) ,pkg-config 
+
+Package: xpra-www-data
+Architecture: any
+Depends: ${misc:Depends}
+Description: Folder for www xpra
